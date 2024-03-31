@@ -1,9 +1,5 @@
-<h2 align="center">Olá, me chamo Mateus!</h2>
+## 🤔 Interesses
 
-
-- 📚 Cursando ADS
-- 💼 Estagiario
-- 📅 19 anos
-- 🧉 Gaúcho
-
--------
+- 🌐 FrontEnd
+- 🛢 Banco de Dados
+- 🎨 UX/UI
