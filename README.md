@@ -1,2 +1,7 @@
-# mateusWolf-DevOps
-Aula de Devops - Branch
+## 🤖 Tecnologias
+
+- </> JavaScript
+- 🐍 Python
+- 🐘 PHP
+- 🛢 SQL Server
+- 🛢 PostgreSQL
